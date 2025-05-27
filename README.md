@@ -11,7 +11,7 @@ ssh -i "C:\Users\stive\Downloads\Clave5.pem" ubuntu@18.188.235.203 ---> para per
 2. Instalacion de Librerias correspondientes (pandas --- plotly --- panel)
    ![imagen](https://github.com/user-attachments/assets/41e08a88-f9c9-4105-a532-b73497973a7c)
 
-3. Entorno Virtual (Creacion y Clonacion del repositorio)
+3. Entorno Virtual (Creacion y Clonacion del repositorio) GIT BASH
 - Realizamos la creacion del entorno virtual y posteriormente clonamos el repositorioa para alojar nuestros archivos, esto con el fin de dejar todo en un mismo entorno.
 - Hacemos el cargue de los archivos (Archivo.py - Archivo.csv)
    ![{8425D374-6909-4011-8EE8-4339FD9C64FE}](https://github.com/user-attachments/assets/1242dd06-84b5-4dae-8fed-77e34fdb88ad)
