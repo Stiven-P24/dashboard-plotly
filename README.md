@@ -1,3 +1,8 @@
+TECNOLOGIAS UTILIZADAS
+![Presentación1_page-0001](https://github.com/user-attachments/assets/1dda18cd-12c0-4d6a-bab5-4bbae8eb261e)
+
+
+PASO A PASO 
 1.	Creación de Instancia en AWS
 - Asignamos nombre y elegimos el sistema operativo a utilizar
 
