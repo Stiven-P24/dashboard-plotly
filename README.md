@@ -23,6 +23,9 @@ ssh -i "C:\Users\stive\Downloads\Clave5.pem" ubuntu@18.188.235.203 ---> para per
 
 - Validamos el funcionamiento el local, tanto visual como funcionamiento logico, una vez confirmado, procedemos a realizar el cargue a la Instancia
 
+- ![imagen](https://github.com/user-attachments/assets/bedfbdf8-712c-4ab3-84ca-b01942831153)
+
+
 4. Instancia AWS (Puertos - Configuracion de Seguridad)
 - para permitir la conexion, AWS (Instancia creada) nos brinda un puerto por defecto, el cual utilizaremos si nos lo permite sin problema, si no debemos configurar (reglas de entrada) para permitir
   conexiones de puertos (Security Group en AWS)
