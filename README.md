@@ -28,7 +28,10 @@ CODIGO (FUNCIONALIDAD)
 
 
   ![{14E44B1F-2148-48D5-8A5B-C056EC4BC849}](https://github.com/user-attachments/assets/baaac386-167a-454b-9633-ebe000b7fb58)
-- Definimos nuestros filtros de acuerdo a las preguntas formuladas 
+- Definimos nuestros filtros de acuerdo a las preguntas formuladas
+
+  ![{F7BE15E2-D1F8-4CBC-9040-F3DE8F8C3457}](https://github.com/user-attachments/assets/63f52531-1608-4e91-b376-2e4e0a7b5f18)
+- 
 
 PASO A PASO PARA CARGUE Y PREPARACION EN LA NUBE
 1.	Creación de Instancia en AWS
