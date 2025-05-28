@@ -1,4 +1,6 @@
 DELITOS INFORMATICOS EN COLOMBIA (2006 - 2025)
+
+
 Se realiza el siguiente DashBoard con el fin de consultar por (Años - Mes - Departamentos - Municipios - Delito Informaticos) respondiendo las siguientes preguntas: 
 
 1. ¿Cuál ha sido la evolución anual de los delitos informáticos?
