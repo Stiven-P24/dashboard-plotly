@@ -1,7 +1,7 @@
 DELITOS INFORMATICOS EN COLOMBIA (2006 - 2025)
 
 
-Se realiza el siguiente DashBoard con el fin de consultar por (Años - Mes - Departamentos - Municipios - Delito Informaticos) respondiendo las siguientes preguntas: 
+Se realiza el siguiente DashBoard con el fin de consultar por (Años - Mes - Departamentos - Municipios - Conductas Delictivas) respondiendo las siguientes preguntas: 
 
 1. ¿Cuál ha sido la evolución anual de los delitos informáticos?
 2. ¿Qué municipios presentan el mayor número de delitos informáticos?
@@ -31,7 +31,19 @@ CODIGO (FUNCIONALIDAD)
 - Definimos nuestros filtros de acuerdo a las preguntas formuladas
 
   ![{F7BE15E2-D1F8-4CBC-9040-F3DE8F8C3457}](https://github.com/user-attachments/assets/63f52531-1608-4e91-b376-2e4e0a7b5f18)
-- 
+- Esta función filtrar_df() se encarga de filtrar el DataFrame df según los valores seleccionados por el usuario en los widgets del panel interactivo (años, departamentos, conductas delictivas).
+
+  ![{3E7966B0-98C3-432B-8833-971FBC14BD28}](https://github.com/user-attachments/assets/0578730d-3a6a-465e-afac-e8d60ffe7097)
+- Realizamos cada uno de los graficos.
+
+  ![{FC498773-FBCD-4364-9EC1-6E57CEBF2FA9}](https://github.com/user-attachments/assets/3001501f-26d5-45b1-ba65-fa590970b1b4)
+- Contruimos la Barra lateral para los Filtros y posteriormente ordenamos los graficos (3 filas / 2 columnas)
+
+  ![{BDDD7145-2B25-43B0-BE2E-FE4538ED947C}](https://github.com/user-attachments/assets/3a242840-5d0f-4b4d-8186-9abd145696e4)
+- Añadimos los estilos de los botones y cajas de texto para los Filtros
+- Linea final, nos permite visualizar el DASHBOARD
+
+   
 
 PASO A PASO PARA CARGUE Y PREPARACION EN LA NUBE
 1.	Creación de Instancia en AWS
