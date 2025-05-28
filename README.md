@@ -1,3 +1,17 @@
+DELITOS INFORMATICOS EN COLOMBIA (2006 - 2025)
+Se realiza el siguiente DashBoard con el fin de consultar por (Años - Mes - Departamentos - Municipios - Delito Informaticos) respondiendo las siguientes preguntas: 
+
+1. ¿Cuál ha sido la evolución anual de los delitos informáticos?
+2. ¿Qué municipios presentan el mayor número de delitos informáticos?
+3. ¿Cuál es la distribución mensual de los delitos informáticos a lo largo de los años?
+4. ¿Qué tipo de conducta delictiva es la más común?
+5. ¿Cómo ha cambiado la frecuencia de una conducta específica (por ejemplo, "ACCESO ABUSIVO A UN SISTEMA") a lo largo del tiempo?
+6. ¿Qué municipio tiene el crecimiento más acelerado en delitos informáticos?
+7. ¿Cuál fue el año con mayor número de delitos registrados en total?
+8. ¿Cómo se distribuyen los delitos informáticos por municipio y tipo de conducta?
+
+- Las cuales cuentan cada una con su grafico correspondiente para validar informacion puntual.
+
 TECNOLOGIAS UTILIZADAS
 ![Presentación1_page-0001](https://github.com/user-attachments/assets/1dda18cd-12c0-4d6a-bab5-4bbae8eb261e)
 
@@ -7,6 +21,12 @@ CODIGO (FUNCIONALIDAD)
 - utilizamos pn.extension('plotly') el cual Carga los recursos JavaScript y CSS necesarios para que los gráficos plotly funcionen en el navegador.
 - Utilizamos df = pd.read_csv para leer la data (.csv) y trabajar a partir de lo que alli se aloje
 
+![{56C54F66-717E-4D0B-8883-4365DF1139CF}](https://github.com/user-attachments/assets/bbfad355-e7dd-4ee9-bb68-9cda9272935a)
+- Estas líneas de código están preparando la columna de fechas de nuestro DataFrame para que se pueda hacer análisis por año y mes, con el fin de poder hacer filtros mas puntuales
+
+
+  ![{14E44B1F-2148-48D5-8A5B-C056EC4BC849}](https://github.com/user-attachments/assets/baaac386-167a-454b-9633-ebe000b7fb58)
+- Definimos nuestros filtros de acuerdo a las preguntas formuladas 
 
 PASO A PASO PARA CARGUE Y PREPARACION EN LA NUBE
 1.	Creación de Instancia en AWS
