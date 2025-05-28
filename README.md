@@ -1,8 +1,14 @@
 TECNOLOGIAS UTILIZADAS
 ![Presentación1_page-0001](https://github.com/user-attachments/assets/1dda18cd-12c0-4d6a-bab5-4bbae8eb261e)
 
+CODIGO (FUNCIONALIDAD)
+![{161DACC0-21FA-4EDE-A7B3-5E26D8A1058A}](https://github.com/user-attachments/assets/508d5921-ae68-4420-a8cc-db660d92d6c3)
+- Realizamos el importe de las librerias (Python) correspondientes para que nos permita correr el Script sin problema
+- utilizamos pn.extension('plotly') el cual Carga los recursos JavaScript y CSS necesarios para que los gráficos plotly funcionen en el navegador.
+- Utilizamos df = pd.read_csv para leer la data (.csv) y trabajar a partir de lo que alli se aloje
 
-PASO A PASO 
+
+PASO A PASO PARA CARGUE Y PREPARACION EN LA NUBE
 1.	Creación de Instancia en AWS
 - Asignamos nombre y elegimos el sistema operativo a utilizar
 
