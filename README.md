@@ -1,4 +1,7 @@
-DELITOS INFORMATICOS EN COLOMBIA (2006 - 2025)
+DELITOS INFORMATICOS EN COLOMBIA (2006 - 2025) 
+
+
+URL: http://18.188.235.203:8000/
 
 
 Se realiza el siguiente DashBoard con el fin de consultar por (Años - Mes - Departamentos - Municipios - Conductas Delictivas) respondiendo las siguientes preguntas: 
@@ -101,15 +104,24 @@ el siguiente comando nos permite ejecutar el Script, el cual nos habilitara una 
 ![imagen](https://github.com/user-attachments/assets/de1dab82-0758-4268-9f26-1304cae56222)
 
 No se evidencian errores, el comportamiento es optimo. 
-URL: http://18.188.235.203:8000/
 
 
 
+CONCLUSIONES
+- Visualización clara de patrones delictivos
+El dashboard permite identificar fácilmente tendencias anuales y mensuales de los delitos informáticos, mostrando cómo han evolucionado a lo largo del tiempo. Esto es clave para comprender si las conductas delictivas se están intensificando, estabilizando o disminuyendo.
 
+- Análisis detallado por municipio y departamento
+A través de gráficos específicos por ubicación geográfica, se pueden detectar municipios con mayores niveles de incidencia. Esto ofrece a las autoridades herramientas visuales para priorizar esfuerzos de prevención y control.
 
+- Identificación de conductas delictivas más frecuentes
+Los gráficos de barras y líneas permiten observar qué tipos de delitos son más comunes y cuáles presentan mayor crecimiento. Esto es útil tanto para análisis criminológicos como para enfoques pedagógicos y de concientización.
 
+- Plataforma moderna, accesible y adaptable
+El uso de tecnologías como Panel, Plotly y Bootstrap proporciona una interfaz moderna, responsiva y con estética profesional, lista para usarse tanto en entornos locales como en servidores web de producción.
 
- 
+- Potencial para decisiones basadas en datos
+Esta herramienta puede ser utilizada por entidades gubernamentales, investigadores y periodistas para tomar decisiones informadas o comunicar hallazgos de forma visual, clara y efectiva.
 
   
 
